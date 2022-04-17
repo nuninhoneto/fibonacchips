@@ -39,3 +39,4 @@ Assets/MMData
 .plastic
 ignore.conf
 fmod_editor.log
+.vsconfig
